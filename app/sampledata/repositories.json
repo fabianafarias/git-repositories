@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 376414775,
+      "name": "credito-para-todes",
+      "owner": {
+        "login": "fabianafarias",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47903743?v=4"
+      },
+      "html_url": "https://github.com/fabianafarias/credito-para-todes",
+      "description": "Aplicativo de crédito",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 364100126,
+      "name": "crud-kotlin-sqllite",
+      "owner": {
+        "login": "fabianafarias",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47903743?v=4"
+      },
+      "html_url": "https://github.com/fabianafarias/crud-kotlin-sqllite",
+      "description": "Crud feito com Kotlin e SqLite",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 369651302,
+      "name": "beba-agua",
+      "owner": {
+        "login": "fabianafarias",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47903743?v=4"
+      },
+      "html_url": "https://github.com/fabianafarias/beba-agua",
+      "description": "Trabalhando com processamento assíncrono no Android",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 385415725,
+      "name": "business-card",
+      "owner": {
+        "login": "fabianafarias",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47903743?v=4"
+      },
+      "html_url": "https://github.com/fabianafarias/business-card",
+      "description": "Criando um app de cartão de visitas com Kotlin",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 285943571,
+      "name": "agenda",
+      "owner": {
+        "login": "fabianafarias",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47903743?v=4"
+      },
+      "html_url": "https://github.com/fabianafarias/agenda",
+      "description": "Utilizando recursos nativos do Android(agenda)",
+      "stargazers_count": 0,
+      "language": "Python"
+    },
+    {
+      "id": 368640146,
+      "name": "android-galeria-e-camera",
+      "owner": {
+        "login": "fabianafarias",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47903743?v=4"
+      },
+      "html_url": "https://github.com/fabianafarias/android-galeria-e-camera",
+      "description": "Utilizando recursos nativos do Android(Galeria de fotos e Câmera)",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    },
+    {
+      "id": 368329933,
+      "name": "contatos-android",
+      "owner": {
+        "login": "fabianafarias",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47903743?v=4"
+      },
+      "html_url": "https://github.com/fabianafarias/contatos-android",
+      "description": "Utilizando recursos nativos do Android(Contatos)",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    },
+    {
+      "id": 353166645,
+      "name": "bechdelflix",
+      "owner": {
+        "login": "fabianafarias",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47903743?v=4"
+      },
+      "html_url": "https://github.com/fabianafarias/bechdelflix",
+      "description": "Bechdelflix tem o intuito de reunir séries que passaram no Teste de Bechdel.",
+      "stargazers_count": 0,
+      "language": "HTML"
+    },
+    {
+      "id": 309481941,
+      "name": "bikcraft",
+      "owner": {
+        "login": "fabianafarias",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47903743?v=4"
+      },
+      "html_url": "https://github.com/fabianafarias/bikcraft",
+      "description": "Uma página institucional construída com HTML, CSS e Javascript",
+      "stargazers_count": 0,
+      "language": "HTML"
+    },
+    {
+      "id": 311498077,
+      "name": "animais-fantasticos",
+      "owner": {
+        "login": "fabianafarias",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47903743?v=4"
+      },
+      "html_url": "https://github.com/fabianafarias/animais-fantasticos",
+      "description": "Animais Fantásticos é um site desenvolvido com HTML, CSS and JS.",
+      "stargazers_count": 0,
+      "language": "HTML"
+    }
+  ]
+}
